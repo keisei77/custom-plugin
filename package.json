@@ -1,0 +1,19 @@
+{
+  "name": "custom-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keisei77/custom-plugin.git"
+  },
+  "author": "Keisei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keisei77/custom-plugin/issues"
+  },
+  "homepage": "https://github.com/keisei77/custom-plugin#readme"
+}
