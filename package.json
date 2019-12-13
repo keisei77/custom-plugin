@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "node ./build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/keisei77/custom-plugin/issues"
   },
-  "homepage": "https://github.com/keisei77/custom-plugin#readme"
+  "homepage": "https://github.com/keisei77/custom-plugin#readme",
+  "devDependencies": {
+    "chalk": "^3.0.0",
+    "webpack": "^4.41.2"
+  }
 }
